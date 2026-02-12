@@ -1,6 +1,6 @@
 # World Population Data - Data Visualization
 
-** the Project: World Population Data Visualization 🌍📊**
+** The Project: World Population Data Visualization 🌍📊**
 
 
 This project is a comprehensive Data Visualization and Exploratory Data Analysis (EDA) effort focused on the World Population Dataset. The primary goal is to use graphical techniques to uncover trends, patterns, and insights related to global and regional population data.
